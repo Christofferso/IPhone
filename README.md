@@ -1,2 +1,2 @@
 # IPhone
-Tela inicial de um site do modelo de celular IPHONE
+Tela inicial de um site do novo modelo de celular IPHONE. Foram utilizados HTML, CSS e JavaScript
